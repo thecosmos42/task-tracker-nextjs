@@ -24,7 +24,7 @@ A simple and elegant task tracking app built with **Next.js 15**, **TypeScript**
 
 ## 🛠️ Tech Stack
 
-- **Next.js 14**
+- **Next.js 15**
 - **TypeScript**
 - **Tailwind CSS**
 - React Hooks (`useState`)
