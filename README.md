@@ -67,11 +67,11 @@ src/
 ├── types/                            # TypeScript type definitions
 │   └── task.ts                       # Task interface/type definition
 │
-├── public/                           # Static assets (e.g. favicon, images)
+├── public/                      
 │   └── favicon.ico                   
-│   └── screenshot.png                # Optional: preview image for README
+│   └── screenshot.png               
 │
-├── utils/                            # (Optional) Utility functions/helpers
+├── utils/                           
 │   └── taskUtils.ts
 │
 ├── package.json                      # Project metadata and dependencies
