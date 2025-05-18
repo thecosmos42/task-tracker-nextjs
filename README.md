@@ -35,14 +35,20 @@ A simple and elegant task tracking app built with **Next.js 15**, **TypeScript**
 ## 📦 Installation
 
 # Clone the repo
+```
 git clone https://github.com/your-username/task-tracker-next.git
 cd task-tracker-next
+```
 
 # Install dependencies
+```
 npm install
+```
 
 # Run the development server
+```
 npm run dev
+```
 
 Open http://localhost:3000 in your browser.
 
