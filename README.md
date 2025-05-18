@@ -18,7 +18,7 @@ A simple and elegant task tracking app built with **Next.js 15**, **TypeScript**
 
 ## 📸 Preview
 
-![Task Tracker Screenshot](task-tracker-next/public/screenshot.JPG) 
+![Task Tracker Screenshot](/public/screenshot.JPG) 
 
 ---
 
